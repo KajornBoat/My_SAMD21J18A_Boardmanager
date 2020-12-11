@@ -14,9 +14,9 @@
         {
           "name": "Atmel SAMD21J18A",
           "architecture": "samd",
-          "version": "%%VERSION%%",
+          "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/KajornBoat/SAMD21J18A_Boardmanagermodule/releases/download/v%%VERSION%%/%%FILENAME%%",
+          "url": "https://github.com/KajornBoat/SAMD21J18A_Boardmanagermodule/releases/download/0.0.1/atmel-samd21j18a-boardmanagermodule-0.0.1.rar",
           "archiveFileName": "%%FILENAME%%",
           "checksum": "SHA-256:%%CHECKSUM%%",
           "size": "%%SIZE%%",
